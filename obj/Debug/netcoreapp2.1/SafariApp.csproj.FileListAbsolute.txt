@@ -1,0 +1,11 @@
+/Users/alexisgrisham/SafariApp/bin/Debug/netcoreapp2.1/SafariApp.deps.json
+/Users/alexisgrisham/SafariApp/bin/Debug/netcoreapp2.1/SafariApp.runtimeconfig.json
+/Users/alexisgrisham/SafariApp/bin/Debug/netcoreapp2.1/SafariApp.runtimeconfig.dev.json
+/Users/alexisgrisham/SafariApp/bin/Debug/netcoreapp2.1/SafariApp.dll
+/Users/alexisgrisham/SafariApp/bin/Debug/netcoreapp2.1/SafariApp.pdb
+/Users/alexisgrisham/SafariApp/obj/Debug/netcoreapp2.1/SafariApp.csprojAssemblyReference.cache
+/Users/alexisgrisham/SafariApp/obj/Debug/netcoreapp2.1/SafariApp.csproj.CoreCompileInputs.cache
+/Users/alexisgrisham/SafariApp/obj/Debug/netcoreapp2.1/SafariApp.AssemblyInfoInputs.cache
+/Users/alexisgrisham/SafariApp/obj/Debug/netcoreapp2.1/SafariApp.AssemblyInfo.cs
+/Users/alexisgrisham/SafariApp/obj/Debug/netcoreapp2.1/SafariApp.dll
+/Users/alexisgrisham/SafariApp/obj/Debug/netcoreapp2.1/SafariApp.pdb
